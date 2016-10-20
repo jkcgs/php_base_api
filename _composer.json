@@ -1,0 +1,6 @@
+{
+    "require": {
+        "wixel/gump": "dev-master",
+        "phpseclib/phpseclib": "2.0.3"
+    }
+}
